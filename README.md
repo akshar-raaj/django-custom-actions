@@ -1,0 +1,1 @@
+Accompanies the blog on Django actions with parameters.
