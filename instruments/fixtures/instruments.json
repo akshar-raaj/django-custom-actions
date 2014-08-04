@@ -1,0 +1,34 @@
+[
+{
+  "pk": 1, 
+  "model": "instruments.instrument", 
+  "fields": {
+    "price": 1000, 
+    "name": "Computer"
+  }
+},
+{
+  "pk": 2, 
+  "model": "instruments.instrument", 
+  "fields": {
+    "price": 500, 
+    "name": "Monitor"
+  }
+},
+{
+  "pk": 3, 
+  "model": "instruments.instrument", 
+  "fields": {
+    "price": 800, 
+    "name": "Laptop"
+  }
+},
+{
+  "pk": 4, 
+  "model": "instruments.instrument", 
+  "fields": {
+    "price": 400, 
+    "name": "Ipad"
+  }
+}
+]
