@@ -1,1 +1,1 @@
-Accompanies the blog on Django actions with parameters.
+Project accompanying the blog post on [passing parameters to Django admin actions](http://agiliq.com/blog/2014/08/passing-parameters-to-django-admin-action/).
